@@ -1,0 +1,27 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #556b2f;
+}
+
+#rumpun{
+    background-color: #556b2f;
+}
+
+.navbar{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #556b2f;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-body .btn {
+    margin-top: auto;
+}
